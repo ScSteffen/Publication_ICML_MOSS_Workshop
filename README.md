@@ -1,3 +1,5 @@
+# Dynamic Low-Rank Training with Spectral Regularization: Achieving Robustness in Compressed Representations
+
 # Run as jupyter notebook
 1) Start the ipynb "low_rank.ipynb" 
 2) Run all cells
